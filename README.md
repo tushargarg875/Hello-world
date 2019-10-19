@@ -1,2 +1,3 @@
 # Hello-world
-A new repository
+Hi Humans! 
+I am Tushar and want to learn new things.
